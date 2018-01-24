@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "961926731672",
+    "firebase_url": "https://partygon-f82a8.firebaseio.com",
+    "project_id": "partygon-f82a8",
+    "storage_bucket": "partygon-f82a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961926731672:android:8d86d9ad2890c500",
+        "android_client_info": {
+          "package_name": "com.partygon.partygonapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961926731672-hi4hc3n32ge9mo1o5jjdqamle14vdhr0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.partygon.partygonapp",
+            "certificate_hash": "7c32dd9520261f6a1dcea26da10f4cd7603440f8"
+          }
+        },
+        {
+          "client_id": "961926731672-3t5la033odttenk4jehfqjb64oo688dt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEfXhpwMeL3gbGsclxjMNoVDm5jrgndrc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961926731672-3t5la033odttenk4jehfqjb64oo688dt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
